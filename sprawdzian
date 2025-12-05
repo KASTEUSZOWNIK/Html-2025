@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kalkulator BMI</title>
+</head>
+<body>
+    <p>klasyfikacj wzkaźnika BMI</p>
+<table style="text-decoration-style: solid;">
+
+    <tr>
+<th>Wzkaźnik BMI</th>
+<th>Klasyfikacja</th>
+<th>Ryzyko</th>
+</tr>
+<tr>
+    <td>Poniżej 18.5</td>
+    <td>Niedowaga</td>
+    <td>Zwiększone</td>
+</tr>
+<tr>
+<th>25.0-24.9</th>
+<th>Waga prawidowa</th>
+<th>Minimalne</th>
+</tr>        
+<tr>
+<th>25.0-29.9</th>
+<th>Nadwaga</th>
+<th>Umiakrownie</th>
+</tr>                
+<tr>
+<th>Powyżej 30.0</th>
+<th>Otyość</th>
+<th>Wysokie</th>
+</tr>              
+    
+
+
+</table>
+        
+
+    
+</body>
+</html>
