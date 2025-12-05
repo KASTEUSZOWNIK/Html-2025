@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+<h1>Kalkulator BMI</h1>
+<p>Dane kontaktowe</p>
+<p>Imię i Nazwisko: Jan Kowalski</p>
+    <p>E-mail:Jan.kowalski@przykad.pl</p> 
+    
+
+</body>
+</html>
